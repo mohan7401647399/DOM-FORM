@@ -5,4 +5,4 @@ function foo() {
     var getId4 = document.getElementById('email').value;
     var getId5 = document.getElementById('pincode').value;
     console.log(getId,getId2,getId3,getId4,getId5);
-}
+} 
